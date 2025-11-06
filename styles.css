@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+a {
+    color: teal;
+    text-decoration: none;
+}
+
+a:visited {
+    color: orangered;
+}
+
+
+a:hover {
+    color: maroon;
+    text-decoration: underline;
+}
+
+a:active {
+    color:mediumseagreen
+}
+
+a:focus {
+    color: goldenrod;
+    outline: 4px solid salmon;
+}
+

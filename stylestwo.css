@@ -1,0 +1,18 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    box-shadow: 5px 10px #888888;
+    transition: all 300ms;
+}
+
+.box:hover {
+    height: 200px;
+    width: 200px;
+    background-color: darkcyan;
+}
+
+.box:active {
+    background-color: darkseagreen;
+
+}
